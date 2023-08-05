@@ -1,0 +1,22 @@
+Cluster
+Worker Threads
+Caching (node-cache, Redis)
+Database query optimization
+Indexing table
+use CDN (Don't Serve Static Assets with Node.js -- uploaded file -- otherwise it will put load on node server)
+Asynchronous programming
+Reduce the number of dependencies
+Deprecated modules, Update NPM packages
+node --inspect index.js (check node profiler)
+load balancer
+Load testing (Jmeter)
+use timeout with Axios
+if we are using pm2 then we should not use clustering with code but with Pm2
+Utilize Worker Threads for CPU-intensive Tasks
+
+
+
+
+Reading and writing files asynchronously using the fs module
+Making HTTP requests using the request or Axios modules
+Processing vast amounts of data using streams
